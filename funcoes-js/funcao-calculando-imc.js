@@ -13,7 +13,9 @@ altura - A altura da pessoa em metros.
 A função deve retornar o valor do IMC, que é obtido dividindo o peso pelo quadrado da altura.
 
 Fórmula do IMC:
+
 IMC=peso/altura2
+
 
 Exemplo de Entrada e Saída:
 Entrada: peso = 70 kg, altura = 1.75 m
